@@ -1,0 +1,9 @@
+{
+  "name": "oe-network-ping",
+  "version": "0.0.0",
+  "description": "OeNetworkPing",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
