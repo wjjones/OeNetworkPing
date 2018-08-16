@@ -10,7 +10,7 @@
 		<li>Project   : OENetworkPing </li>
 		<li>Ref.      : [TO BE DEFINED] </li>
 		<li>Spec.     : [TO BE DEFINED] </li>
-		<li>Project Location: https://github.com/wjjones/ScadaPing.git </li>
+		<li>Project Location: https://github.com/wjjones/OeNetworkPing </li>
 	</ul>
 </p>
 <h2>Audit</h2>
