@@ -1,14 +1,17 @@
-﻿# OeNetworkPing
------------------------------------------------
-Info
-	Module    : ScadaPing
-	Class     : Node.Js Program
-	Author    : Jeff Jones
-	Date      : Aug 15 2018
-	Project   : OENetworkPing
-	Ref.      : [TO BE DEFINED]
-	Spec.     : [TO BE DEFINED]
-	Project Location: https://github.com/wjjones/ScadaPing.git
+﻿<h1>OeNetworkPing</h1>
+<\p>
+<h2>Info<\h2>
+<ul>
+	<li>Module    : ScadaPing <\li>
+	<li>Class     : Node.Js Program <\li>
+	<li>Author    : Jeff Jones <\li>
+	<li>Date      : Aug 15 2018 <\li>
+	<li>Project   : OENetworkPing <\li>
+	<li>Ref.      : [TO BE DEFINED] <\li>
+	<li>Spec.     : [TO BE DEFINED] <\li>
+	<li>Project Location: https://github.com/wjjones/ScadaPing.git <\li>
+<\ul>
+<\p>
 Audit
 	Audit at  :
 	Audit by  :
