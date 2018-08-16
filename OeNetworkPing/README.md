@@ -15,14 +15,18 @@
 </p>
 <h2>Audit</h2>
 <p>
-		Audit at  : 
-		Audit by  :
+	<ul>
+		<li>Audit at  : </li>
+		<li>Audit by  : </li>
+	</ul>
 </p>
 
 <h2>Copyright (C)</h2>
 <p>
-	2018 Jeff Jones
-	All Rights Reserved
+	<ul>
+		<li>2018 Jeff Jones </li
+		<li>All Rights Reserved <li>
+	</ul>
 </p>
 </hr>
 <h2>Description</h2>
@@ -80,10 +84,10 @@
 <h2>Links</h2>
 <p>
 	<ul>
-		<li>How to use Ini file
+		<li>How to use Ini file</br>
 			http://thisdavej.com/using-ini-files-in-your-node-js-applications-for-health-and-profit/#what-is-the-ini-file-format
 		</li>
-		<li>How to use net-ping
+		<li>How to use net-ping</br>
 		https://github.com/nospaceships/node-net-ping
 		</li>
 	</ul>
