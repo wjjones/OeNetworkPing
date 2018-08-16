@@ -59,7 +59,7 @@
 <h2>Revision History</h2>
 <p>
 	<ul>
-		<li>15Aug2018 wjj	Created
+		<li>15Aug2018 wjj	Created </br>
 			Created Server to work on as VM
 			Setup Visual Studio to connect and use Github Repository
 			Setup Server to Run Node.JS
