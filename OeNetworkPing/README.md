@@ -1,6 +1,6 @@
 ﻿<h1>OeNetworkPing</h1>
-<\p>
-<h2>Info<\h2>
+
+<h2>Info <\h2>
 <ul>
 	<li>Module    : ScadaPing <\li>
 	<li>Class     : Node.Js Program <\li>
