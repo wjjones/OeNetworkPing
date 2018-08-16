@@ -1,6 +1,6 @@
 ﻿# OeNetworkPing
 -----------------------------------------------
-##Info
+Info
 	Module    : ScadaPing
 	Class     : Node.Js Program
 	Author    : Jeff Jones
@@ -9,22 +9,22 @@
 	Ref.      : [TO BE DEFINED]
 	Spec.     : [TO BE DEFINED]
 	Project Location: https://github.com/wjjones/ScadaPing.git
-##Audit
+Audit
 	Audit at  :
 	Audit by  :
-##Copyright (C)
+Copyright (C)
 	2018 Jeff Jones
 	All Rights Reserved
-##Description :
+Description :
 	This Program will Check network connectivity and log it to local signals in the OE database 
-##Requirements :
+Requirements :
 	Windows Server or Workstation running Node.Js
-##Tested on OS's :
+Tested on OS's :
 	Windows Server 2016 with GUI
-##Setup Instructions
+Setup Instructions
 	Install Windows Server 2016 With GUI
 	Run all updates
-##Revision History
+Revision History
 	15Aug2018 wjj	Created
 		Created Server to work on as VM
 		Setup Visual Studio to connect and use Github Repository
@@ -39,7 +39,7 @@
 		Name : ScadaPing:(DeviceType).(DeviceName).TIME
 		Description : Time of last ping
 		Value : (The value of the last ping time)
-##Links
+Links
 	How to use Ini file
 		http://thisdavej.com/using-ini-files-in-your-node-js-applications-for-health-and-profit/#what-is-the-ini-file-format
 	How to use net-ping
