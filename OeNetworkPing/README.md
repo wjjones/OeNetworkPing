@@ -65,19 +65,23 @@
 			Setup Server to Run Node.JS
 			Connect Server to Network
 			On the OE Database Setup the following signals per device to be monitored
+			<ol>
+				<li>LocalStringSignal : 
+					Name : ScadaPing:(DeviceType).(DeviceName).STR
+					Description : A description of what device this is
+					Value : (The IP address or name in DNS)
+				</li>
+				<li>LocalAnalogSignal :
+					Name : ScadaPing:(DeviceType).(DeviceName).TIME
+					Description : Time of last ping
+					Value : (The value of the last ping time)
+				</li>
+			</ol>
 		</li>
-		<ol>
-			<li>LocalStringSignal : 
-				Name : ScadaPing:(DeviceType).(DeviceName).STR
-				Description : A description of what device this is
-				Value : (The IP address or name in DNS)
-			</li>
-			<li>LocalAnalogSignal :
-				Name : ScadaPing:(DeviceType).(DeviceName).TIME
-				Description : Time of last ping
-				Value : (The value of the last ping time)
-			</li>
-		</ol>
+		<li>16Aug2018 wjj </br>
+				Worked on updating readme.md html to look correct</br>
+				Also worked on getting git to work using visual studio and how to update git</br>
+		</li>
 	</ul>
 </p>
 </hr>
